@@ -1,5 +1,5 @@
 id | name | points 
-:-: | :-: | :-:
+:- | :- | :-
 1 | twoSum
 8 | stringToIntegerAtoI | 
 11 | containerWithMostWaters
